@@ -1,7 +1,7 @@
 # Algorithm-Data-Structure
-A collection of LeetCode questions to ace the coding interview! 
+A collection questions to ace the coding interview in (Codeforces, Leetcode, Neetcode)! 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# Topics
 ## Array
 |  |
 | ------- |
