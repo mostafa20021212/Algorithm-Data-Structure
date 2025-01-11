@@ -16,6 +16,7 @@ A collection questions to ace the coding interview in (Codeforces, Leetcode, Nee
 | [0001-two-sum](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0952-word-subsets](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1502-construct-k-palindrome-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection questions to ace the coding interview in (Codeforces, Leetcode, Nee
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0952-word-subsets](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -59,4 +61,12 @@ A collection questions to ace the coding interview in (Codeforces, Leetcode, Nee
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1502-construct-k-palindrome-strings) |
+## Counting
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
