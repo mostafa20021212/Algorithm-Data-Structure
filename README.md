@@ -6,6 +6,7 @@ A collection questions to ace the coding interview in (Codeforces, Leetcode, Nee
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/0001-two-sum) |
+| [0051-n-queens](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/0051-n-queens) |
 | [0952-word-subsets](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -69,4 +70,8 @@ A collection questions to ace the coding interview in (Codeforces, Leetcode, Nee
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1502-construct-k-palindrome-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
