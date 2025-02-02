@@ -13,6 +13,7 @@ A collection questions to ace the coding interview in (Codeforces, Leetcode, Nee
 | [2292-counting-words-with-a-given-prefix](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3429-special-array-i](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
