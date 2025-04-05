@@ -24,6 +24,7 @@ A collection questions to ace the coding interview in (Codeforces, Leetcode, Nee
 | [0952-word-subsets](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection questions to ace the coding interview in (Codeforces, Leetcode, Nee
 | [1502-construct-k-palindrome-strings](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1524-string-matching-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
@@ -69,6 +71,7 @@ A collection questions to ace the coding interview in (Codeforces, Leetcode, Nee
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection questions to ace the coding interview in (Codeforces, Leetcode, Nee
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Backtracking
 |  |
 | ------- |
