@@ -11,6 +11,7 @@ A collection questions to ace the coding interview in (Codeforces, Leetcode, Nee
 | [1524-string-matching-in-an-array](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1524-string-matching-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -34,6 +35,7 @@ A collection questions to ace the coding interview in (Codeforces, Leetcode, Nee
 | ------- |
 | [0002-add-two-numbers](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/0009-palindrome-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
 | ------- |
@@ -86,12 +88,22 @@ A collection questions to ace the coding interview in (Codeforces, Leetcode, Nee
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/0051-n-queens) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Brainteaser
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
