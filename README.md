@@ -8,6 +8,7 @@ A collection questions to ace the coding interview in (Codeforces, Leetcode, Nee
 | [0001-two-sum](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/0051-n-queens) |
 | [0368-largest-divisible-subset](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/0416-partition-equal-subset-sum) |
 | [0952-word-subsets](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1524-string-matching-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -112,6 +113,7 @@ A collection questions to ace the coding interview in (Codeforces, Leetcode, Nee
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/0416-partition-equal-subset-sum) |
 ## Sorting
 |  |
 | ------- |
