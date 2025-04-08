@@ -19,6 +19,7 @@ A collection questions to ace the coding interview in (Codeforces, Leetcode, Nee
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/3429-special-array-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection questions to ace the coding interview in (Codeforces, Leetcode, Nee
 | [1502-construct-k-palindrome-strings](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mostafa20021212/Algorithm-Data-Structure/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Linked List
 |  |
 | ------- |
